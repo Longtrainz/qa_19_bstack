@@ -26,7 +26,7 @@ public class BrowserStackIOSTests3 {
 
 	@Test
 	void searchTest() throws MalformedURLException, InterruptedException {
-		Configuration.browserSize = null;
+//		Configuration.browserSize = null;
 
 		DesiredCapabilities caps = new DesiredCapabilities();
 
